@@ -15,8 +15,7 @@ export const data = [
     ],
     description: 'Context menu by JS in Classes',
     buttonLinks: [
-      { id: 1.1, name: 'source code', link: 'https://github.com/MarinaDreamwork/Hackathon', background: 'bg-gray-400' },
-      { id: 1.2, name: 'link to app', link: '', background: 'bg-orange-500' }
+      { id: 1.1, name: 'source code', link: 'https://github.com/MarinaDreamwork/Hackathon', background: 'bg-gray-400 opacity-50' }
     ],
     isActive: false
   },
